@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.resume-templates-container {
+  
+}
+
+.resume-templates-flat {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 800px;
+}
+
+.rt-head {
+  background: none repeat scroll 0 0 rgb(93, 93, 93);
+  padding: 30px 20px;
+  position: relative;
+}
+.rt-head .rt-thumb {
+  border-radius: 50%;
+  display: inline-block;
+  height: 200px;
+  overflow: hidden;
+  vertical-align: top;
+  width: 200px;
+}
+
+
+.rt-head .rt-details {
+  display: inline-block;
+  padding-left: 20px;
+  position: absolute;
+}
+
+.rt-head .rt-name {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.rt-head .rt-tagline {
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-style: italic;
+  padding: 5px 0;
+}
+
+.rt-head .rt-content-details {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+}
+
+.rt-head .rt-desription {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+}
+
+.rt-sections {
+  background: none repeat scroll 0 0 rgb(243, 243, 243);
+  padding: 20px;
+}
+
+.rt-section-single {
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-right: 35px;
+  vertical-align: top;
+  width: 45%;
+}
+
+.rt-section-single .rt-section-title {
+  background: none repeat scroll 0 0 rgb(221, 221, 221);
+  border-bottom: 1px solid rgb(221, 221, 221);
+  font-size: 20px;
+  padding: 0 10px;
+}
+.rt-section-single .rt-section-details {
+  font-size: 12px;
+  padding: 10px 0;
+}
+
+
+
+.rt-content-single {
+  font-size: 13px;
+  padding: 10px 20px;
+}
+.rt-content-single .rt-content-title {
+  font-weight: bold;
+}
+
+.rt-content-single .rt-content-year {
+  font-style: italic;
+  padding: 0 10px;
+}
+.rt-content-single .rt-content-position{
+	padding: 0 10px;
+	font-style: italic;
+	}
+.rt-content-single .rt-content-details{
+	padding: 0 10px;
+	}
+
+.rt-content-single .rt-content-value{
+	padding: 0 10px;
+	}
+
+.rt-content-single .rt-content-website{
+	padding: 0 10px;
+	}
+.rt-content-single .rt-content-mobile{
+	padding: 0 10px;
+	}
+
+
+
+
+.percentage-container {
+  background: none repeat scroll 0 0 rgb(221, 221, 221);
+}
+
+.percentage-container .percentage {
+  background: none repeat scroll 0 0 rgb(255, 217, 65);
+  border-bottom: 1px solid rgb(229, 184, 5);
+}
+
+
+
+
+
+
+
