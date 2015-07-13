@@ -1,5 +1,5 @@
 === Resume Templates ===
-	Contributors: paratheme
+	Contributors: 
 	Donate link: http://paratheme.com
 	Tags: resume templates, resume, resume builder, resumes, resume creator,
 	Requires at least: 3.8
